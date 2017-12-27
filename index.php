@@ -34,12 +34,6 @@
           <h1>wenbin.io</h1>
           <h2 class="subtitle">Loading ...</h2>
           <div id="countdown"></div>
-          <form class="form-inline signup" role="form">
-            <div class="form-group">
-              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
-            </div>
-            <button type="submit" class="btn btn-theme">Get notified!</button>
-          </form>
 
           <div class="social">
             <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
