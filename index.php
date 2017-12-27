@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Free coming soon template with jQuery countdown">
 
-  <title>Webuild - Free Bootstrap coming soon template with countdown</title>
+  <title>WenBinIO</title>
 
   <!-- Bootstrap -->
   <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -31,8 +31,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1>WeBuild</h1>
-          <h2 class="subtitle">We're working hard to improve our website and we'll ready to launch after</h2>
+          <h1>wenbin.io</h1>
+          <h2 class="subtitle">Loading ...</h2>
           <div id="countdown"></div>
           <form class="form-inline signup" role="form">
             <div class="form-group">
@@ -43,46 +43,10 @@
 
           <div class="social">
             <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
             <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
           </div>
         </div>
       </div>
-
-      <div class="row contctform">
-        <div class="col-md-8 col-md-offset-2">
-          <h3>Contact Us</h3>
-          <div id="sendmessage">Your message has been sent. Thank you!</div>
-          <div id="errormessage"></div>
-        </div>
-        <form action="" method="post" role="form" class="contactForm">
-          <div class="col-md-4 col-md-offset-2">
-            <div class="form">
-              <div class="form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                <div class="validation"></div>
-              </div>
-              <div class="form-group">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                <div class="validation"></div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validation"></div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="form">
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validation"></div>
-              </div>
-              <div class="text-center"><button type="submit" class="btn btn-theme">Send Message</button></div>
-            </div>
-          </div>
-        </form>
 
       </div>
 
