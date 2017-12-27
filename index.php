@@ -50,7 +50,7 @@
 
       </div>
 
-      <div class="row">
+      <div>
         <div class="col-lg-6 col-lg-offset-3">
           <p class="copyright">&copy; WeBuild - All Rights Reserved</p>
           <div class="credits">
