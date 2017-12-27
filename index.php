@@ -32,7 +32,6 @@
       <div class="row">
         <div class="col-md-12">
           <h1>wenbin.io</h1>
-          <h2 class="subtitle">Loading ...</h2>
           <div id="countdown"></div>
 
           <div class="social">
