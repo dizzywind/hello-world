@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Free coming soon template with jQuery countdown">
 
-  <title>WenBinIO</title>
+  <title>WenBin.IO</title>
 
   <!-- Bootstrap -->
   <link href="assets/css/bootstrap.css" rel="stylesheet">
